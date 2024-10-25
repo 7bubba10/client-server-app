@@ -1,0 +1,17 @@
+.homeTitle {
+    padding: 0.01em 16px;
+    max-width: 980px;
+    margin: auto;
+    max-width:600px;
+}
+
+.wideLetter {
+    letter-spacing: 4px;
+}
+.opacity {
+    opacity: 0.75;
+}
+.justifyText {
+    text-align: justify;
+}
+

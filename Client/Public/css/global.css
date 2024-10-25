@@ -1,0 +1,54 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #f4f4f4;
+}
+
+.navBar {
+    background-color: #1a0d0d;
+    padding: 20px 0;
+    text-align: center;
+}
+
+.navBar ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    display: flex;
+    justify-content: center;
+}
+
+.navBar ul li {
+    margin: 7px;
+}
+
+.navBar ul li a {
+    color: white;
+    padding: 10px 20px;
+    text-decoration: none;
+}
+
+.navBar ul li a.active {
+    background-color: #0066cc;
+    border-radius: 5px;
+}
+
+.navBar ul li a:hover {
+    background-color: #555;
+    border-radius: 5px;
+}
+
+.center {
+    text-align: center;
+}
+
+#title {
+    font-size: 3rem;
+    color: #00ccff;
+}
+
+#slogan {
+    font-size: 1.5rem;
+    color: #cccccc;
+}
